@@ -167,7 +167,7 @@ mueen_v4/
 | `conflicts` | Proactive conflicts |
 | `notices` · `email_outbox` | Notifications and outgoing mail |
 
-> Source code is not published in this repository.
+> Source code is not published in this repository
 
 ---
 
