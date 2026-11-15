@@ -92,7 +92,7 @@ We aimed to serve students in the most effective way at the lowest possible cost
 - [x] Web prototype with four interfaces (student, admin, facilities, health center).
 - [ ] Scenario and usability testing with real users.
 - [ ] For deployment: access to university schedule and facility data, with clearly assigned responsibilities.
-- [ ] Start with one college, then expand.
+- [ ] Expand from our college to the whole campus, building a better university experience for every student.
 
 ## 👤 Demo accounts
 
