@@ -8,7 +8,7 @@ by **Team Innovision**
 
 *We built MU'EEN to serve students in the best possible way at the lowest possible cost — a printed QR code instead of a smartwatch.*
 
-### 🔗 [Live demo](https://yaass24.github.io/Mu-een/)
+### 🔗 [Live demo](https://yaass24.github.io/Mu-een/) · 🎨 [Figma design](https://www.figma.com/design/sXCsdqLnoGpQ19vTEYezXS/mu-een?node-id=78-2)
 
 </div>
 
@@ -183,7 +183,7 @@ mueen_v4/
 
 طُبّق على مباني **كلية علوم الحاسب وتقنية المعلومات — A61 و A62** (دوران لكل مبنى).
 
-🔗 [جرّب النسخة التجريبية](https://yaass24.github.io/Mu-een/) — كلمة المرور لجميع الحسابات: `Mueen123!`
+🔗 [جرّب النسخة التجريبية](https://yaass24.github.io/Mu-een/) · 🎨 [التصميم على Figma](https://www.figma.com/design/sXCsdqLnoGpQ19vTEYezXS/mu-een?node-id=78-2) — كلمة المرور لجميع الحسابات: `Mueen123!`
 
 </div>
 
